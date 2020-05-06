@@ -1,5 +1,5 @@
 // clear local storage
-localStorage.clear();
+// localStorage.clear();
 
 // VARIABLES
 
